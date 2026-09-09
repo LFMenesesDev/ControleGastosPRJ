@@ -73,7 +73,7 @@ DELETE /api/Transacao/{id}
 
 1. Clone o repositório
 
-git clone https://github.com/Worllokskull/ControleGastosPRJ.git
+git clone https://github.com/LFMenesesDev/ControleGastosPRJ.git
 
 Entre na pasta:
 
@@ -118,4 +118,4 @@ Lucas Felipe Meneses Silva
 
 Estudante de Ciência da Computação e desenvolvedor Full Stack em formação.
 
-"LinkedIn" (https://linkedin.com/in/lucasfelipemeneses/) • "GitHub" (https://github.com/Worllokskull)
+"LinkedIn" (https://linkedin.com/in/lucasfelipemeneses/) • "GitHub" (https://github.com/LFMenesesDev)
